@@ -8,7 +8,7 @@ from calculator.div import div
 def run_test():
     print(add(15,20))
     print(sub(8,20))
-    print(mul(5,7))
+    print(mul(4,7))
     print(div(99,9))
     
 if __name__ == "__main__":
