@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: calculator
+Version: 0.1
+Summary: A simple calculator package using modular programming.
+Home-page: https://github.com/m-adil-ali/Code-Modularization-Tests
+Author: Muhammad Adil Ali
+Author-email: muhamad.adil.ale@gmail.com
+License: MIT
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE.txt
+
+# Objective
+
+- This file is consist of concepts about Code Modularization.
+- I have implemented the concept of Code Modularization in the two separate files.
